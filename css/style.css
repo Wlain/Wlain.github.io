@@ -1,0 +1,12 @@
+/* 影像與畫布區 */
+#img-result{
+	margin-top:30px !important;
+	text-align:center;
+}
+
+#origin-img video{
+	width:720px;
+	height:1280px;
+	max-width:100%;
+	border: 3px orange solid;
+}

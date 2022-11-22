@@ -1,11 +1,4 @@
-# 李峋同款爱心代码
+# Tensorflow-opencv-webcam-mnist
+Opencv.js ,Tensorflow.js 與預先於Python訓練的MNIST手寫識別結合。
 
-#### 介绍
-演示站：`http://vr013.com/love/input.html`
-
-黑色背景： `http://vr013.com/love/bgblackinput.html`
-
-欢迎star
-
-
-
+[https://alextrinityblock.github.io/Tensorflow-opencv-webcam-mnist/](https://alextrinityblock.github.io/Tensorflow-opencv-webcam-mnist/)
